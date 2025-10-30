@@ -15,7 +15,7 @@
 <h2>🙈 accounts_</h2>
 <p align="center">
 <p align="center">
-<a target="_blank" href="https://cmodern.nekoweb.org/projects" style="display: inline-block;"><img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /><br><br>
+<a target="_blank" href="https://cmodern.nekoweb.org/projects" style="display: inline-block;"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wwe&logoColor=white" alt="website" /><br><br>
 <a target="_blank" href="https://roadmap.sh/u/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="roadmap" />
   <a target="_blank" href="https://github.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" />
 <a target="_blank" href="https://medium.com/@gad183058" style="display: inline-block;"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="medium" />
