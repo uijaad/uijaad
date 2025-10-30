@@ -1,4 +1,4 @@
-![Header](black.png)
+![Header](black2.png)
 <h2>💻 programmingskills_</h2>
 <p align="center">
   <a href="https://skillicons.dev">
