@@ -4,6 +4,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,html,css,js,react,python,lua" />
   </a>
+  <a href="https://wakatime.com/@3420e916-9beb-45b8-a324-7b28753a7e62"><img src="https://wakatime.com/badge/user/3420e916-9beb-45b8-a324-7b28753a7e62.svg" alt="Total time coded since Oct 30 2025" /></a>
 </p>
 <h2>⚡️ Where to find me</h2>
 <p align="center">
