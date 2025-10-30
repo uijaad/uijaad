@@ -1,5 +1,5 @@
 ![Header](github-header-banner.png)
-<h2>💻 Programming Languages </h2>
+<h2>💻 Programming Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,html,css,js,react,python,lua" />
