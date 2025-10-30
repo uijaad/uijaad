@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,vim,vscodium,vscode,visualstudio,sketchup,obsidian,ps" />
-  </a><br><br>
+  </a>
 </p>
 <h2>⚡️ Where to find me</h2>
 <p align="center">
