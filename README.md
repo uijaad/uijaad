@@ -2,9 +2,15 @@
 <h2>💻 Programming Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,html,css,js,react,python,lua" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,html,css,js,php,react,python,lua" />
   </a><br><br>
   <a href="https://wakatime.com/@3420e916-9beb-45b8-a324-7b28753a7e62"><img src="https://wakatime.com/badge/user/3420e916-9beb-45b8-a324-7b28753a7e62.svg" alt="Total time coded since Oct 30 2025" /></a>
+</p>
+<h2>💻 Software i use</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,vim,vscodium,vscode,visualstudio,sketchup,obsidian,ps" />
+  </a><br><br>
 </p>
 <h2>⚡️ Where to find me</h2>
 <p align="center">
