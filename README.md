@@ -1,4 +1,4 @@
-![Header](github-header-banner.png)
+![Header](https://i.imgur.com/7A5ZfPJ.gif)
 <h2>💻 programmingskills_</h2>
 <p align="center">
   <a href="https://skillicons.dev">
