@@ -9,7 +9,7 @@
 <h2>💻 softwares_</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,vim,vscodium,vscode,visualstudio,sketchup,figma,obsidian,ps" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,arch,linux,vim,vscodium,vscode,visualstudio,sketchup,figma,obsidian,ps" />
   </a>
 </p>
 <h2>🙈 accounts_</h2>
