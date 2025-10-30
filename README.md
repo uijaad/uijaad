@@ -17,7 +17,7 @@
 <p><a target="_blank" href="https://www.instagram.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/uijaad">
+<a href="https://buymeacoffee.com/uijaad">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
