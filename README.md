@@ -15,7 +15,7 @@
 <h2>🙈 accounts_</h2>
 <p align="center">
 <p align="center"><a target="_blank" href="https://roadmap.sh/u/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white
-" alt="roadmap" /></a>
+" alt="roadmap" />
 </p>
 <h2>🎸 lastsong_</h2>
 <p align="center">
