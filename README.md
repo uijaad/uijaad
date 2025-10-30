@@ -1,4 +1,6 @@
-![Header](https://pypi-camo.freetls.fastly.net/3ddeac3a09b36a03798da942eb625a81a6501987/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f64613438302f61736369692d616e696d61746f722f6d61696e2f646f63732f696d616765732f6d6172636f766963682d657865632e676966)
+<p align="center">
+  <img src="https://i.imgur.com/7A5ZfPJ.gif" />
+</p>
 <h2>💻 programmingskills_</h2>
 <p align="center">
   <a href="https://skillicons.dev">
