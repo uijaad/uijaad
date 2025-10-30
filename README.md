@@ -1,4 +1,4 @@
-![Header](black2.png)
+![Header](github-header-banner.png)
 <h2>💻 programmingskills_</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,6 +15,7 @@
 <h2>🙈 accounts_</h2>
 <p align="center">
 <p align="center"><a target="_blank" href="https://roadmap.sh/u/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white" alt="roadmap" /></p>
+<p align="center"><a target="_blank" href="https://github.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" /></p>
 </p>
 <h2>🎸 lastsong_</h2>
 <p align="center">
