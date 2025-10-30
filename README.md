@@ -7,7 +7,7 @@
 </p>
 <h2>⚡️ Where to find me</h2>
 <p align="center">
-<p><a target="_blank" href="https://www.instagram.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<p align="center"><a target="_blank" href="https://www.instagram.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 <h2>🎧 Last Song</h2>
 <p align="center">
