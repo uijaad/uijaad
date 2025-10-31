@@ -17,10 +17,22 @@
 <h2>🙈 accounts_</h2>
 <p align="center">
 <p align="center">
-<a target="_blank" href="https://cmodern.nekoweb.org/projects" style="display: inline-block;"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wwe&logoColor=white" alt="website" />
-<a target="_blank" href="https://roadmap.sh/u/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap" />
-  <a target="_blank" href="https://github.com/uijaad" style="display: inline-block;"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<a target="_blank" href="https://medium.com/@gad183058" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+<a href="https://cmodern.nekoweb.org/projects" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wwe&logoColor=white" alt="website" />
+</a>
+
+<a href="https://roadmap.sh/u/uijaad" target="_blank">
+  <img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="roadmap" />
+</a>
+
+<a href="https://github.com/uijaad" target="_blank">
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+<a href="https://medium.com/@gad183058" target="_blank">
+  <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>
+
 
   
 </p>
